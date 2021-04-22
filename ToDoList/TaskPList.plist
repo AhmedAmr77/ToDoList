@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>aaa</string>
+		<key>desc</key>
+		<string>bbb</string>
+		<key>priority</key>
+		<string>asasa</string>
+		<key>status</key>
+		<string>todo</string>
+		<key>reminderDate</key>
+		<date>2021-04-05T12:30:29Z</date>
+		<key>creationDate</key>
+		<date>2021-04-02T15:33:00Z</date>
+	</dict>
+</array>
+</plist>
